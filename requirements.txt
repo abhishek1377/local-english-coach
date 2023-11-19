@@ -1,0 +1,4 @@
+openai
+gtts
+SpeechRecognition
+playsound
