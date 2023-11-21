@@ -75,8 +75,7 @@ while True:
     # print("message:", message, '\n')
 
     # Step 4: Run the Assistant
-    run = client.beta.threads.runs.create(thread_id=thread.id, assistant_id="asst_dQRSgumYCUkH0MEf9vIFMl6V")
-    # run = client.beta.threads.runs.create(thread_id=thread.id, assistant_id="asst_fgKAzTU2NJNlUOdxjKlh9qiX")
+    run = client.beta.threads.runs.create(thread_id=thread.id, assistant_id="asst_1YsovcLtOVS0teglsurZBnn0")
     
     # print("running the assistant:", run)
 
